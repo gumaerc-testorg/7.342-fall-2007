@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c9cc922e-d8a9-e116-33dc-35b4722dc9a3
 resourcetype: Document
 title: How to read a scientific paper
 uid: a922ded9-c487-eb93-f77c-799c53c6d857
