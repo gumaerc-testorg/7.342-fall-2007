@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides the course summary and information about
+  prerequisites, course format, grades, and the schedule of lectures and key dates
+  for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
