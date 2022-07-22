@@ -6,6 +6,7 @@ file: /courses/7-342-chronic-infection-and-inflammation-what-are-the-consequence
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: How to read a scientific paper
 uid: a922ded9-c487-eb93-f77c-799c53c6d857
 ---
 Lecture handout with guidelines on how to read a scientific paper, organization of a paper, and evaluating a scientific paper.
-
