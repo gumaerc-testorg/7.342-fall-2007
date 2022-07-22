@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the assignments for the course,
+  including an essay, two oral presentations, and literature questions.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: d6507790-5052-5873-437c-4b7f3c282fee
 ---

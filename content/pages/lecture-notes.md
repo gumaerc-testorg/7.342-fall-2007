@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a synopsis of the topics discussed during each
+  lecture session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: c9cc922e-d8a9-e116-33dc-35b4722dc9a3
 ---
@@ -36,7 +41,7 @@ Overview of class material
 
 Introductions by students and instructors
 
-Instructions about how to read scientific literature ([PDF]({{< baseurl >}}/resources/session_1))
+Instructions about how to read scientific literature ({{% resource_link a922ded9-c487-eb93-f77c-799c53c6d857 "PDF" %}})
 
 
 {{< tdclose >}}
