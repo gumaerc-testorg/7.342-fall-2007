@@ -2,7 +2,8 @@
 content_type: resource
 description: Lecture handout with guidelines on how to read a scientific paper, organization
   of a paper, and evaluating a scientific paper.
-file: /courses/7-342-chronic-infection-and-inflammation-what-are-the-consequences-on-your-health-fall-2007/a922ded9c487eb93f77c799c53c6d857_session_1.pdf
+file: /ol-ocw-studio-app/courses/7-342-chronic-infection-and-inflammation-what-are-the-consequences-on-your-health-fall-2007/a922ded9c487eb93f77c799c53c6d857_session_1.pdf
+file_size: 39969
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
